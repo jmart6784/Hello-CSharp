@@ -1,0 +1,5 @@
+/home/juan/Documents/HelloWorld/bin/Release/net6.0/publish/HelloWorld
+/home/juan/Documents/HelloWorld/bin/Release/net6.0/publish/HelloWorld.dll
+/home/juan/Documents/HelloWorld/bin/Release/net6.0/publish/HelloWorld.deps.json
+/home/juan/Documents/HelloWorld/bin/Release/net6.0/publish/HelloWorld.runtimeconfig.json
+/home/juan/Documents/HelloWorld/bin/Release/net6.0/publish/HelloWorld.pdb
